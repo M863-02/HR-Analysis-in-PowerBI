@@ -58,8 +58,6 @@ The dashboard enables HR teams and management to monitor employee distribution, 
 
 # Key Insights
 
-- Majority of employees fall under Level 1 and Level 2
-
 - Only 4.9% of employees are currently due for promotion
 
 - 8% of employees are approaching retrenchment
